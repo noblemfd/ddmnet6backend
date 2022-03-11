@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "454f94b5-1967-45b2-82f8-39dfe6960e57": {
+      "ProjectGuid": "454f94b5-1967-45b2-82f8-39dfe6960e57",
+      "DisplayName": "DDM.API.Infrastructure.Identity",
+      "ColorIndex": 0
+    },
+    "10ef03d7-f9fe-44d4-bb6b-120f88c38065": {
+      "ProjectGuid": "10ef03d7-f9fe-44d4-bb6b-120f88c38065",
+      "DisplayName": "DDM.API.Infrastructure.Persistence",
+      "ColorIndex": 1
+    },
+    "888f718c-c0a0-47b8-a7ff-daf451c5b4b7": {
+      "ProjectGuid": "888f718c-c0a0-47b8-a7ff-daf451c5b4b7",
+      "DisplayName": "DDM.API.Infrastructure.Shared",
+      "ColorIndex": 2
+    },
+    "f31aad6d-f522-4540-9a31-f31349c2b3af": {
+      "ProjectGuid": "f31aad6d-f522-4540-9a31-f31349c2b3af",
+      "DisplayName": "DDM.API.Core.Domain",
+      "ColorIndex": 3
+    },
+    "0e2f2a36-2001-41a9-ae24-1e5842879766": {
+      "ProjectGuid": "0e2f2a36-2001-41a9-ae24-1e5842879766",
+      "DisplayName": "DDM.API.Core.Application",
+      "ColorIndex": 4
+    },
+    "761a9e1d-895b-424c-a006-e9b0782ecb10": {
+      "ProjectGuid": "761a9e1d-895b-424c-a006-e9b0782ecb10",
+      "DisplayName": "DDM.API.WebApi",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

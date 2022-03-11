@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8UXb783SItWQg6CMvReEuhBH5iVrjPbJARRMmXA8X5k=",
+  "Source": "DDM.API.WebApi",
+  "BasePath": "_content/DDM.API.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
